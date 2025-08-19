@@ -1,3 +1,4 @@
+
 # 📚 Programação 2 - 2025.1
 
 Repositório da disciplina **Programação 2** do período **2025.1**.  
@@ -27,6 +28,20 @@ Aqui estão reunidos os **exercícios resolvidos**, organizados por data.
 - Tratamento de Exceções
 - Coleções
 - Prática com projetos em Java
+
+---
+
+## 📅 Exercícios Desenvolvidos
+
+- **29/07/2025 → Produtos em estoque**  
+  - Ler os dados de um produto (nome, preço, quantidade).  
+  - Mostrar informações do produto.  
+  - Realizar entrada e saída de estoque, atualizando os dados.  
+
+- **14/08/2025 → Imposto (Tax Payer)**  
+  - Ler dados de **N contribuintes** (pessoa física ou jurídica).  
+  - Calcular o imposto devido conforme regras específicas.  
+  - Usar herança, polimorfismo e classes abstratas para organizar o código.  
 
 ---
 
